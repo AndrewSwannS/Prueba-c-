@@ -1,0 +1,78 @@
+#include <iostream>
+#include <string>
+/*Crear un programa que solicite por teclado los datos personales de cada uno (nombres y apellidos, cedula, edad, dirección, correo electrónico)*/
+using namespace std;
+int main (){
+	
+	int edad, x; /*número entenro*/
+	string nombre. x; /* tipo letra*/
+	int cedula, ;
+	string direccion x;
+	string correo_electronico; 
+	
+	cout
+	
+}
+
+
+
+#include <iostream>
+/*  Ejemplo declaración variables y sus tipos de datos */
+using namespace std;
+int main()
+{
+ int x,x1; 
+ double y; 
+ double y1,y2,y3; 
+ char z; 
+ x = 10 ; 
+ cout<<"x = "<<x;
+ x1 = x;
+ cout<<"x1 = "<<x1;
+ y= 24.35;
+ cout<<"y = "<<y;
+ z='%'; 
+ cout<<"z = "<<z;
+return 0;
+}
+
+#include <iostream>
+/* La instrucción  CIN */
+using namespace std;
+int main()
+{
+ int x,x1; 
+ double y; 
+ char z; 
+
+ cout<<"Digite valor x: ";
+ cin>>x; 
+ cout<<"Digite valor y: ";
+ cin>>y; 
+ cout<<"Digite caracter: ";
+ cin>>z;
+ cout<<"x = "<<x<<"\ny = "<<y<<"\nz = "<<z;
+
+return 0;
+}
+
+
+#include <iostream>
+/* La instrucción  CIN */
+using namespace std;
+int main()
+{
+ int x,x1; 
+ double y; 
+ char z; 
+
+ cout<<"Digite valor x: ";
+ cin>>x; 
+ cout<<"Digite valor y: ";
+ cin>>y; 
+ cout<<"Digite caracter: ";
+ cin>>z;
+ cout<<"x = "<<x<<"\ny = "<<y<<"\nz = "<<z;
+
+return 0;
+}
